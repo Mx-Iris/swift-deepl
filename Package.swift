@@ -14,7 +14,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/joshuawright11/papyrus", branch: "main"),
+        .package(url: "https://github.com/joshuawright11/papyrus", from: "0.6.16"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
