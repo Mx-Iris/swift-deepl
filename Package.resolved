@@ -1,22 +1,31 @@
 {
-  "originHash" : "d95adb3aa2935e74b179dc42e14421080c0abdb438ae24e0d4f417ba9adbd659",
+  "originHash" : "71dfa813754b9bde9da2c401e5f79063885cfada7578f52877a297175b73ea32",
   "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
     {
       "identity" : "papyrus",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/MxIris-Library-Forks/papyrus",
       "state" : {
-        "branch" : "main",
-        "revision" : "77afd4ef330c81771be880ed00fd88752aa3b040"
+        "revision" : "0a424d90f7a31b40e3b850a58062bb3aa701323f",
+        "version" : "0.6.16"
       }
     },
     {
       "identity" : "swift-syntax",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-syntax",
+      "location" : "https://github.com/apple/swift-syntax",
       "state" : {
-        "revision" : "0687f71944021d616d34d922343dcef086855920",
-        "version" : "600.0.1"
+        "revision" : "2bc86522d115234d1f588efe2bcb4ce4be8f8b82",
+        "version" : "510.0.3"
       }
     }
   ],
