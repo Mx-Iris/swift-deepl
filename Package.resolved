@@ -1,13 +1,13 @@
 {
-  "originHash" : "4e369b01a6591fc5cceb8f314bd3cb1afc4cccc656ca13802f12bc77788fed88",
+  "originHash" : "d95adb3aa2935e74b179dc42e14421080c0abdb438ae24e0d4f417ba9adbd659",
   "pins" : [
     {
       "identity" : "papyrus",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/joshuawright11/papyrus",
+      "location" : "https://github.com/MxIris-Library-Forks/papyrus",
       "state" : {
         "branch" : "main",
-        "revision" : "be7dd29d07b2e7657bb67b63ce4cfeb764d00359"
+        "revision" : "77afd4ef330c81771be880ed00fd88752aa3b040"
       }
     },
     {
